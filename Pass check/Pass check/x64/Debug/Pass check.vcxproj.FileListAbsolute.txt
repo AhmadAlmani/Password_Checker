@@ -1,0 +1,3 @@
+C:\Users\moham\Desktop\Coding\Pass check\Pass check\x64\Debug\Pass check.vcxproj.AssemblyReference.cache
+C:\Users\moham\Desktop\Coding\Pass check\Pass check\x64\Debug\Passcheck.MyForm.resources
+C:\Users\moham\Desktop\Coding\Pass check\Pass check\x64\Debug\Pass check.vcxproj.GenerateResource.cache
